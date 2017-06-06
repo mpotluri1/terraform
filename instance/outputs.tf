@@ -1,4 +1,4 @@
-output "Asha-Jyothi DNS Address" {
+output "DNS" {
   value = "${aws_instance.aj_stack.public_ip}"
 }
 
