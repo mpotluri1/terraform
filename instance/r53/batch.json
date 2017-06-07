@@ -4,12 +4,12 @@
     {
       "Action": "UPSERT",
       "ResourceRecordSet": {
-        "Name": "aj-manvi.itsreaning.com.",
+        "Name": "aj-test.itsreaning.com.",
         "Type": "CNAME",
         "TTL": 60,
         "ResourceRecords": [
           {
-            "Value": "ec2-184-72-146-117.compute-1.amazonaws.com"
+            "Value": "ec2-54-144-181-219.compute-1.amazonaws.com"
           }
         ]
       }
